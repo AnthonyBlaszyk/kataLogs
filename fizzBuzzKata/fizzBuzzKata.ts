@@ -16,5 +16,3 @@ function logNumber() {
     console.log(fizzBuzz(n))
   }
 }
-
-logNumber()
